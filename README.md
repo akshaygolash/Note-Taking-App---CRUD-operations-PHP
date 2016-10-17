@@ -9,7 +9,11 @@ This project is called "Note Taking application" which is on based CRUD operatio
 Installation:
 
 1.Download XAMPP sever using the link; https://www.apachefriends.org/index.html 
+
 2. Make sure you follow the instruction after downloading and save the file in C drive; all the code you write must be saved inside this path: C:\xampp\htdocs\{{ProjectName}} 
+
 3. After you finish installing and running the .exe file, ensure you run apache and the ports has to be 80/443.
+
 4. Unzip the file that I have uploaded to github and save it inside this path: C:\xampp\htdocs\{{ProjectName}}\. This is a very important step as the browser does not produce results if the path location changes.
+
 5. After you start apache, go to the browser and run the url: http://localhost/{{ProjectName}}/src
