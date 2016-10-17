@@ -1,0 +1,10 @@
+.app-font{
+  font-family: Lucidatypewriter, monospace !important;
+}
+.show-layout{
+  border: solid 1px;
+  font-size: 20px;
+}
+.button-layout{
+  margin: 5px;
+}
